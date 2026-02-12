@@ -5,7 +5,7 @@
 ## Играть онлайн
 
 Игра доступна по ссылке:  
-https://papaya121.github.io/Platformer2D-WebGL/
+https://ridaysh.github.io/Platformer2D-WebGL/
 
 ## Описание
 
